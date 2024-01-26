@@ -11,6 +11,8 @@ class Music{
     }
 }
 
+//test
+
 const musicList=[
     new Music("Legend of the Eagle Bearer","Assassin's Creed Odyssey","1.jpg","1.mp3"),
     new Music("No Time For Caution","Hans Zimmer","2.jpeg","2.mp3"),
